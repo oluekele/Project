@@ -1,13 +1,44 @@
 {
   "files": {
-    "main.css": "/Project/static/css/main.2c516fba.css",
-    "main.js": "/Project/static/js/main.75fc949f.js",
+    "main.css": "/Project/static/css/main.d6e11650.css",
+    "main.js": "/Project/static/js/main.8fcc5348.js",
+    "static/media/newsDetails.webp": "/Project/static/media/newsDetails.d02f942726223b7a7cac.webp",
+    "static/media/start.png": "/Project/static/media/start.7a8b64908eeecc78d125.png",
+    "static/media/Home2.png": "/Project/static/media/Home2.4f11b08062e42a2fcd95.png",
+    "static/media/gameDetials.webp": "/Project/static/media/gameDetials.ceda396dc3833117ad90.webp",
+    "static/media/inner7.webp": "/Project/static/media/inner7.7a706d1c390832e39cfa.webp",
+    "static/media/news1.webp": "/Project/static/media/news1.301fd463911ed762c63a.webp",
+    "static/media/game2.webp": "/Project/static/media/game2.12b7e79e90199eabe0b4.webp",
+    "static/media/inner3.webp": "/Project/static/media/inner3.8b15a14a4525a6621746.webp",
+    "static/media/team.webp": "/Project/static/media/team.810e27b44cbc93effaba.webp",
+    "static/media/game1.webp": "/Project/static/media/game1.137c8491cca165cea29d.webp",
+    "static/media/Home3.png": "/Project/static/media/Home3.76556ae5fed58ed3f9db.png",
+    "static/media/inner1.webp": "/Project/static/media/inner1.3785287af536dd281b86.webp",
+    "static/media/news3.webp": "/Project/static/media/news3.4a037409ac5cd51b4f97.webp",
+    "static/media/Home.png": "/Project/static/media/Home.5cb3a83260cf3bdd1767.png",
+    "static/media/news2.webp": "/Project/static/media/news2.415f74f3f397b19a5085.webp",
+    "static/media/game3.webp": "/Project/static/media/game3.11f7d08103562d390654.webp",
+    "static/media/space-mono-latin-400-italic.woff2": "/Project/static/media/space-mono-latin-400-italic.84bae8528546c346f258.woff2",
+    "static/media/contact.webp": "/Project/static/media/contact.dc0276ef4c5a38e575d0.webp",
+    "static/media/signIn.webp": "/Project/static/media/signIn.357461efff54d07e89ce.webp",
+    "static/media/signUp.webp": "/Project/static/media/signUp.29706691a8549789523d.webp",
+    "static/media/space-mono-latin-ext-400-italic.woff2": "/Project/static/media/space-mono-latin-ext-400-italic.6bdde98277de4036c764.woff2",
+    "static/media/space-mono-latin-400-normal.woff2": "/Project/static/media/space-mono-latin-400-normal.cf0de771ae438d1d570f.woff2",
+    "static/media/space-mono-latin-ext-400-normal.woff2": "/Project/static/media/space-mono-latin-ext-400-normal.2372b0a44653b43e0b37.woff2",
+    "static/media/space-mono-latin-400-italic.woff": "/Project/static/media/space-mono-latin-400-italic.88b98e7116b536045c9f.woff",
+    "static/media/space-mono-latin-ext-400-italic.woff": "/Project/static/media/space-mono-latin-ext-400-italic.2d524fc7b3208144422c.woff",
+    "static/media/space-mono-latin-400-normal.woff": "/Project/static/media/space-mono-latin-400-normal.2b12ded554ed81adafa1.woff",
+    "static/media/space-mono-latin-ext-400-normal.woff": "/Project/static/media/space-mono-latin-ext-400-normal.238ec4abfb127b6cbd2e.woff",
+    "static/media/space-mono-vietnamese-400-italic.woff2": "/Project/static/media/space-mono-vietnamese-400-italic.11768ecd937c773012be.woff2",
+    "static/media/space-mono-vietnamese-400-normal.woff2": "/Project/static/media/space-mono-vietnamese-400-normal.aa90b0c628c744cb42ab.woff2",
+    "static/media/space-mono-vietnamese-400-italic.woff": "/Project/static/media/space-mono-vietnamese-400-italic.0d78f0d3f6359a2cbf69.woff",
+    "static/media/space-mono-vietnamese-400-normal.woff": "/Project/static/media/space-mono-vietnamese-400-normal.e9918368441703dd46dc.woff",
     "index.html": "/Project/index.html",
-    "main.2c516fba.css.map": "/Project/static/css/main.2c516fba.css.map",
-    "main.75fc949f.js.map": "/Project/static/js/main.75fc949f.js.map"
+    "main.d6e11650.css.map": "/Project/static/css/main.d6e11650.css.map",
+    "main.8fcc5348.js.map": "/Project/static/js/main.8fcc5348.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c516fba.css",
-    "static/js/main.75fc949f.js"
+    "static/css/main.d6e11650.css",
+    "static/js/main.8fcc5348.js"
   ]
 }

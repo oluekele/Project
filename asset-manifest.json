@@ -1,10 +1,20 @@
 {
   "files": {
-    "main.css": "/Project/static/css/main.d6e11650.css",
-    "main.js": "/Project/static/js/main.ca482393.js",
+    "main.css": "/Project/static/css/main.b08a488d.css",
+    "main.js": "/Project/static/js/main.e7ea98f2.js",
+    "static/media/pexels2.jpg": "/Project/static/media/pexels2.28583982ee0bc60aa4aa.jpg",
+    "static/media/pic.png": "/Project/static/media/pic.b517d61644c0ced3cb6e.png",
+    "static/media/bangle.jpg": "/Project/static/media/bangle.7ccf4343887e46e266a5.jpg",
+    "static/media/pexels1.jpg": "/Project/static/media/pexels1.cd5f1f7611f7b811ca3c.jpg",
+    "static/media/platform.jpg": "/Project/static/media/platform.85ea8f26fad8ab338996.jpg",
+    "static/media/vertt.png": "/Project/static/media/vertt.ffc1da0b88ed48427f15.png",
     "static/media/newsDetails.webp": "/Project/static/media/newsDetails.d02f942726223b7a7cac.webp",
-    "static/media/start.png": "/Project/static/media/start.7a8b64908eeecc78d125.png",
+    "static/media/vect.png": "/Project/static/media/vect.b8fb165b154648b85f4b.png",
+    "static/media/vertn.png": "/Project/static/media/vertn.47819bd7795133ce6b29.png",
+    "static/media/pexels3.png": "/Project/static/media/pexels3.7a8b64908eeecc78d125.png",
+    "static/media/anim1.jpg": "/Project/static/media/anim1.26cee3b83063681ac4f2.jpg",
     "static/media/Home2.png": "/Project/static/media/Home2.4f11b08062e42a2fcd95.png",
+    "static/media/florian.jpg": "/Project/static/media/florian.32f3308f8314cd1cec74.jpg",
     "static/media/gameDetials.webp": "/Project/static/media/gameDetials.ceda396dc3833117ad90.webp",
     "static/media/inner7.webp": "/Project/static/media/inner7.7a706d1c390832e39cfa.webp",
     "static/media/news1.webp": "/Project/static/media/news1.301fd463911ed762c63a.webp",
@@ -18,12 +28,14 @@
     "static/media/Home.png": "/Project/static/media/Home.5cb3a83260cf3bdd1767.png",
     "static/media/news2.webp": "/Project/static/media/news2.415f74f3f397b19a5085.webp",
     "static/media/game3.webp": "/Project/static/media/game3.11f7d08103562d390654.webp",
+    "static/media/poster.jpg": "/Project/static/media/poster.7e7ebe3afd8bf5ecdf2a.jpg",
     "static/media/space-mono-latin-400-italic.woff2": "/Project/static/media/space-mono-latin-400-italic.84bae8528546c346f258.woff2",
     "static/media/contact.webp": "/Project/static/media/contact.dc0276ef4c5a38e575d0.webp",
     "static/media/signIn.webp": "/Project/static/media/signIn.357461efff54d07e89ce.webp",
     "static/media/signUp.webp": "/Project/static/media/signUp.29706691a8549789523d.webp",
     "static/media/space-mono-latin-ext-400-italic.woff2": "/Project/static/media/space-mono-latin-ext-400-italic.6bdde98277de4036c764.woff2",
     "static/media/space-mono-latin-400-normal.woff2": "/Project/static/media/space-mono-latin-400-normal.cf0de771ae438d1d570f.woff2",
+    "static/media/pattern.jpg": "/Project/static/media/pattern.63e2a047331f21d68c55.jpg",
     "static/media/space-mono-latin-ext-400-normal.woff2": "/Project/static/media/space-mono-latin-ext-400-normal.2372b0a44653b43e0b37.woff2",
     "static/media/space-mono-latin-400-italic.woff": "/Project/static/media/space-mono-latin-400-italic.88b98e7116b536045c9f.woff",
     "static/media/space-mono-latin-ext-400-italic.woff": "/Project/static/media/space-mono-latin-ext-400-italic.2d524fc7b3208144422c.woff",
@@ -33,12 +45,13 @@
     "static/media/space-mono-vietnamese-400-normal.woff2": "/Project/static/media/space-mono-vietnamese-400-normal.aa90b0c628c744cb42ab.woff2",
     "static/media/space-mono-vietnamese-400-italic.woff": "/Project/static/media/space-mono-vietnamese-400-italic.0d78f0d3f6359a2cbf69.woff",
     "static/media/space-mono-vietnamese-400-normal.woff": "/Project/static/media/space-mono-vietnamese-400-normal.e9918368441703dd46dc.woff",
+    "static/media/hex.webp": "/Project/static/media/hex.626db71c559418529722.webp",
     "index.html": "/Project/index.html",
-    "main.d6e11650.css.map": "/Project/static/css/main.d6e11650.css.map",
-    "main.ca482393.js.map": "/Project/static/js/main.ca482393.js.map"
+    "main.b08a488d.css.map": "/Project/static/css/main.b08a488d.css.map",
+    "main.e7ea98f2.js.map": "/Project/static/js/main.e7ea98f2.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6e11650.css",
-    "static/js/main.ca482393.js"
+    "static/css/main.b08a488d.css",
+    "static/js/main.e7ea98f2.js"
   ]
 }

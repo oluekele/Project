@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Project/static/css/main.315b3375.css",
-    "main.js": "/Project/static/js/main.aa9bf0a8.js",
+    "main.css": "/Project/static/css/main.2951ce6e.css",
+    "main.js": "/Project/static/js/main.48a5b449.js",
     "static/media/pexels2.jpg": "/Project/static/media/pexels2.28583982ee0bc60aa4aa.jpg",
     "static/media/pic.png": "/Project/static/media/pic.b517d61644c0ced3cb6e.png",
     "static/media/bangle.jpg": "/Project/static/media/bangle.7ccf4343887e46e266a5.jpg",
@@ -34,38 +34,26 @@
     "static/media/rubik-arabic-400-normal.woff": "/Project/static/media/rubik-arabic-400-normal.9b7e86b9f74ba1c2e5a6.woff",
     "static/media/poster.jpg": "/Project/static/media/poster.7e7ebe3afd8bf5ecdf2a.jpg",
     "static/media/rubik-latin-400-normal.woff2": "/Project/static/media/rubik-latin-400-normal.5903a23647de7c1c373f.woff2",
-    "static/media/space-mono-latin-400-italic.woff2": "/Project/static/media/space-mono-latin-400-italic.84bae8528546c346f258.woff2",
     "static/media/rubik-arabic-400-normal.woff2": "/Project/static/media/rubik-arabic-400-normal.fb7a9eb9da73dfe4012d.woff2",
     "static/media/contact.webp": "/Project/static/media/contact.dc0276ef4c5a38e575d0.webp",
     "static/media/signIn.webp": "/Project/static/media/signIn.357461efff54d07e89ce.webp",
     "static/media/signUp.webp": "/Project/static/media/signUp.29706691a8549789523d.webp",
-    "static/media/space-mono-latin-ext-400-italic.woff2": "/Project/static/media/space-mono-latin-ext-400-italic.6bdde98277de4036c764.woff2",
-    "static/media/space-mono-latin-400-normal.woff2": "/Project/static/media/space-mono-latin-400-normal.cf0de771ae438d1d570f.woff2",
     "static/media/pattern.jpg": "/Project/static/media/pattern.63e2a047331f21d68c55.jpg",
-    "static/media/space-mono-latin-ext-400-normal.woff2": "/Project/static/media/space-mono-latin-ext-400-normal.2372b0a44653b43e0b37.woff2",
-    "static/media/space-mono-latin-400-italic.woff": "/Project/static/media/space-mono-latin-400-italic.88b98e7116b536045c9f.woff",
     "static/media/rubik-latin-ext-400-normal.woff": "/Project/static/media/rubik-latin-ext-400-normal.b22669ae614939bed8f4.woff",
-    "static/media/space-mono-latin-ext-400-italic.woff": "/Project/static/media/space-mono-latin-ext-400-italic.2d524fc7b3208144422c.woff",
-    "static/media/space-mono-latin-400-normal.woff": "/Project/static/media/space-mono-latin-400-normal.2b12ded554ed81adafa1.woff",
-    "static/media/space-mono-latin-ext-400-normal.woff": "/Project/static/media/space-mono-latin-ext-400-normal.238ec4abfb127b6cbd2e.woff",
     "static/media/rubik-latin-ext-400-normal.woff2": "/Project/static/media/rubik-latin-ext-400-normal.128f0ade4a0f37464020.woff2",
     "static/media/rubik-cyrillic-400-normal.woff": "/Project/static/media/rubik-cyrillic-400-normal.6051558aea94e6ef53ed.woff",
-    "static/media/space-mono-vietnamese-400-italic.woff2": "/Project/static/media/space-mono-vietnamese-400-italic.11768ecd937c773012be.woff2",
     "static/media/rubik-cyrillic-ext-400-normal.woff": "/Project/static/media/rubik-cyrillic-ext-400-normal.42f32fa6be04a31cca47.woff",
     "static/media/rubik-cyrillic-400-normal.woff2": "/Project/static/media/rubik-cyrillic-400-normal.4518a3e43930ad13dfff.woff2",
-    "static/media/space-mono-vietnamese-400-normal.woff2": "/Project/static/media/space-mono-vietnamese-400-normal.aa90b0c628c744cb42ab.woff2",
     "static/media/rubik-hebrew-400-normal.woff": "/Project/static/media/rubik-hebrew-400-normal.dc3e1612254ef63af34e.woff",
     "static/media/rubik-cyrillic-ext-400-normal.woff2": "/Project/static/media/rubik-cyrillic-ext-400-normal.1382ac2e75fea62dd104.woff2",
-    "static/media/space-mono-vietnamese-400-italic.woff": "/Project/static/media/space-mono-vietnamese-400-italic.0d78f0d3f6359a2cbf69.woff",
     "static/media/rubik-hebrew-400-normal.woff2": "/Project/static/media/rubik-hebrew-400-normal.9f12218709f0b72dbf18.woff2",
-    "static/media/space-mono-vietnamese-400-normal.woff": "/Project/static/media/space-mono-vietnamese-400-normal.e9918368441703dd46dc.woff",
     "static/media/hex.webp": "/Project/static/media/hex.626db71c559418529722.webp",
     "index.html": "/Project/index.html",
-    "main.315b3375.css.map": "/Project/static/css/main.315b3375.css.map",
-    "main.aa9bf0a8.js.map": "/Project/static/js/main.aa9bf0a8.js.map"
+    "main.2951ce6e.css.map": "/Project/static/css/main.2951ce6e.css.map",
+    "main.48a5b449.js.map": "/Project/static/js/main.48a5b449.js.map"
   },
   "entrypoints": [
-    "static/css/main.315b3375.css",
-    "static/js/main.aa9bf0a8.js"
+    "static/css/main.2951ce6e.css",
+    "static/js/main.48a5b449.js"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Project/static/css/main.2951ce6e.css",
-    "main.js": "/Project/static/js/main.48a5b449.js",
+    "main.css": "/Project/static/css/main.40c33e63.css",
+    "main.js": "/Project/static/js/main.14533f93.js",
     "static/media/pexels2.jpg": "/Project/static/media/pexels2.28583982ee0bc60aa4aa.jpg",
     "static/media/pic.png": "/Project/static/media/pic.b517d61644c0ced3cb6e.png",
     "static/media/bangle.jpg": "/Project/static/media/bangle.7ccf4343887e46e266a5.jpg",
@@ -49,11 +49,11 @@
     "static/media/rubik-hebrew-400-normal.woff2": "/Project/static/media/rubik-hebrew-400-normal.9f12218709f0b72dbf18.woff2",
     "static/media/hex.webp": "/Project/static/media/hex.626db71c559418529722.webp",
     "index.html": "/Project/index.html",
-    "main.2951ce6e.css.map": "/Project/static/css/main.2951ce6e.css.map",
-    "main.48a5b449.js.map": "/Project/static/js/main.48a5b449.js.map"
+    "main.40c33e63.css.map": "/Project/static/css/main.40c33e63.css.map",
+    "main.14533f93.js.map": "/Project/static/js/main.14533f93.js.map"
   },
   "entrypoints": [
-    "static/css/main.2951ce6e.css",
-    "static/js/main.48a5b449.js"
+    "static/css/main.40c33e63.css",
+    "static/js/main.14533f93.js"
   ]
 }
